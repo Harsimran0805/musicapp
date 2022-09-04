@@ -1,0 +1,46 @@
+{
+  "expo": {
+    "name": "musicapp",
+    "slug": "musicapp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "logo.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "logo.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "logo.png",
+
+      "config": {
+        "firebase":{
+          "apiKey": "AIzaSyCTQ1gzuift0KobzPM12ue2NWu-CANai7Y",
+  "authDomain": "musicapp-8ded4.firebaseapp.com",
+  "projectId": "musicapp-8ded4",
+  "storageBucket": "musicapp-8ded4.appspot.com",
+  "messagingSenderId": "732317851451",
+  "appId": "1:732317851451:web:5d6b10c032fde723f0a11e",
+  "measurementId": "G-YED8C88X7V"
+
+        }
+      }
+    }
+  }
+}
