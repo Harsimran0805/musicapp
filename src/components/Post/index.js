@@ -1,7 +1,6 @@
 //import { ResizeMode } from "expo-av";
 import React from "react";
 import {View, TouchableWithoutFeedback, Text, Image, TouchableOpacity} from 'react-native';
-
 import { Video } from 'react-native-video';
 import styles from '../../components/Post/styles';
 import Entypo from 'react-native-vector-icons/Entypo';
